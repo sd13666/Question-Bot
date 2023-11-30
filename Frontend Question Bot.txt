@@ -1,0 +1,6 @@
+Frontend Question Bot
+username: Fronted_question_bot
+
+Use this token to access the HTTP API:
+6514896206:AAG2PQWwhKxbQxUhqksBGKaPeBQDNmVRvqc
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
